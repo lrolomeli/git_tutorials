@@ -1,1 +1,7 @@
-ocean
+* TABLE OF CONTENT
+
+Creating Snapshots
+  - Initializing a repository
+  - Staging changes
+bugfiz
+hello
